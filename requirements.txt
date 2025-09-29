@@ -1,0 +1,4 @@
+Flask==2.3.3
+opencv-python==4.8.0.74
+mediapipe==0.10.21
+numpy==1.25.2
